@@ -1,4 +1,4 @@
-#код взять https://github.com/AntonAyzenberg/Persistent-homology-Examples/blob/master/My_Persistence_test.ipynb
+#код взят c https://github.com/AntonAyzenberg/Persistent-homology-Examples/blob/master/My_Persistence_test.ipynb
 #!pip install --verbose git+https://github.com/mrzv/dionysus.git
 
 import dionysus as d
